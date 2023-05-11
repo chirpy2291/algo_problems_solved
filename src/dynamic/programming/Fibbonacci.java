@@ -1,5 +1,4 @@
 package dynamic.programming;
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Fibbonacci {
